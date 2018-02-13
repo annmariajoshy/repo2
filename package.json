@@ -1,0 +1,22 @@
+{
+  "name": "rawdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "md5": "^2.2.1",
+    "morgan": "^1.9.0",
+    "parse-json": "^4.0.0",
+    "password-hash": "^1.2.2",
+    "pg": "^7.4.1"
+  }
+}

@@ -1,0 +1,1 @@
+select users.name,grp_emotions.des,grp_emotions.dat,grp_emotions.emot FROM grp_emotions JOIN users ON grp_emotions.fr=users.u_id;
